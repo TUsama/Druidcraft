@@ -64,7 +64,7 @@
   "item.druidcraft.elderflower":"接骨木花",
   "item.druidcraft.blueberry_muffin":"蓝莓松饼",
   "item.druidcraft.apple_elderberry_crumble":"苹果接骨木酥皮甜饼",
-  "item.druidcraft.elderflower_cordial":"接骨木花水",
+  "item.druidcraft.elderflower_cordial":"接骨木花甜汁",
 
   "item.druidcraft.moonstone_sword":"月长石剑",
   "item.druidcraft.moonstone_shovel":"月长石锹",
@@ -219,9 +219,9 @@
   "biome.druidcraft.darkwood_forest":"黑木森林",
 
   "subtitles.druidcraft.item.bottle.fill":"装瓶",
-  "subtitles.druidcraft.block.crate.open":"板条箱打开",
-  "subtitles.druidcraft.block.crate.close":"板条箱关上",
-  "subtitles.druidcraft.ui.woodcutter.take_result":"木材加工机开始加工",
+  "subtitles.druidcraft.block.crate.open":"板条箱：打开",
+  "subtitles.druidcraft.block.crate.close":"板条箱：关闭",
+  "subtitles.druidcraft.ui.woodcutter.take_result":"木材加工机：开始加工",
 
   "itemGroup.druidcraft":"Druidcraft",
   
